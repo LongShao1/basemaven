@@ -1,1 +1,1 @@
-developer 开发分支
+release 正式分支
